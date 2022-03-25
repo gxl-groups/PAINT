@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="50c3fa10-67c8-42dd-bfd1-f8acb7fdd384" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="PEN-Net-for-Inpainting-pytorch" />
+  </component>
+  <component name="ProjectId" id="1cOlz9oOCzVF8L8c3lc6FihvNSy" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BicycleGAN" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyDebuggerOptionsProvider">
+    <option name="mySupportGeventDebugging" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\PEN-Net-for-Inpainting-pytorch\util" />
+      <recent name="D:\PycharmProjects\PEN-Net-for-Inpainting-pytorch\model" />
+      <recent name="D:\PycharmProjects\PEN-Net-for-Inpainting-pytorch" />
+      <recent name="D:\PycharmProjects\PEN-Net-for-Inpainting-pytorch\models" />
+      <recent name="D:\PycharmProjects\PEN-Net-for-Inpainting-pytorch\model\networks" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PEN-Net-for-Inpainting-pytorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train.py" />
+      <option name="PARAMETERS" value="-c configs/celebahq.json -n pennet -m pconv -s 256" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.train" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50c3fa10-67c8-42dd-bfd1-f8acb7fdd384" name="Default Changelist" comment="" />
+      <created>1590407779331</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590407779331</updated>
+      <workItem from="1590407782776" duration="125825000" />
+      <workItem from="1591667239847" duration="464838000" />
+      <workItem from="1595602581552" duration="571589000" />
+      <workItem from="1600770075871" duration="137042000" />
+      <workItem from="1603373101191" duration="43107000" />
+      <workItem from="1604113230218" duration="8371000" />
+      <workItem from="1604211998249" duration="23784000" />
+      <workItem from="1604572810157" duration="11473000" />
+      <workItem from="1605754128477" duration="2280000" />
+      <workItem from="1606804030279" duration="4630000" />
+      <workItem from="1608273550795" duration="2285000" />
+      <workItem from="1609571762702" duration="39000" />
+      <workItem from="1610415021964" duration="237379000" />
+      <workItem from="1618553946377" duration="16561000" />
+      <workItem from="1638414295597" duration="8884000" />
+      <workItem from="1638429528918" duration="109058000" />
+      <workItem from="1640423918732" duration="1981000" />
+      <workItem from="1640604698233" duration="71000" />
+      <workItem from="1641613156437" duration="20628000" />
+      <workItem from="1644573241687" duration="37300000" />
+      <workItem from="1645870788022" duration="458000" />
+      <workItem from="1646724498650" duration="2574000" />
+      <workItem from="1648013005560" duration="8292000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PEN_Net_for_Inpainting_pytorch$train.coverage" NAME="train Coverage Results" MODIFIED="1610550658090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

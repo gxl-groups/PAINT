@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="50c3fa10-67c8-42dd-bfd1-f8acb7fdd384" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="PEN-Net-for-Inpainting-pytorch" />
+  </component>
+  <component name="ProjectId" id="1cOlz9oOCzVF8L8c3lc6FihvNSy" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\Stage3\model" />
+      <recent name="D:\PycharmProjects\Stage3\core" />
+      <recent name="D:\PycharmProjects\Stage3" />
+      <recent name="D:\PycharmProjects\PEN-Net-for-Inpainting-pytorch\model\networks" />
+      <recent name="D:\PycharmProjects\PEN-Net-for-Inpainting-pytorch\model" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50c3fa10-67c8-42dd-bfd1-f8acb7fdd384" name="Default Changelist" comment="" />
+      <created>1590407779331</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590407779331</updated>
+      <workItem from="1590407782776" duration="125825000" />
+      <workItem from="1591667239847" duration="464838000" />
+      <workItem from="1595602581552" duration="49359000" />
+      <workItem from="1596075908331" duration="20512000" />
+      <workItem from="1598016144156" duration="105447000" />
+      <workItem from="1600770076803" duration="599000" />
+      <workItem from="1601018410401" duration="17897000" />
+      <workItem from="1603373104449" duration="40944000" />
+      <workItem from="1604240687178" duration="10023000" />
+      <workItem from="1604453718444" duration="5000" />
+      <workItem from="1606186297261" duration="25272000" />
+      <workItem from="1606804031139" duration="25253000" />
+      <workItem from="1609571803573" duration="96538000" />
+      <workItem from="1638413777561" duration="1470000" />
+      <workItem from="1638877833927" duration="1926000" />
+      <workItem from="1648096686788" duration="1362000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

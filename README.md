@@ -7,6 +7,7 @@
 </p>
 <p align='center'> 
 </p>
+
 ## Introduction 
 
 In this paper, we investigate a new problem of generating a variety of multi-view fashion designs conditioned on a human pose and texture examples of arbitrary sizes, which can replace the repetitive and low-level design work for fashion designers. To solve this challenging multi-modal image translation problem, we propose a novel Photo-reAlistic fashIon desigN synThesis (PAINT) framework, which decomposes the framework into three manageable stages. 

@@ -65,7 +65,7 @@ Run AFN `tensorboard --logdir release_model --port 6006` to view training progre
 ## Example Results 
 
 <p align='center'>  
-  <img src='https://github.com/gxl-groups/PAINT/blob/main/TSN/docs/result.PNG' width='700'/>
+  <img src='https://github.com/gxl-groups/PAINT/blob/main/TSN/docs/result.png' width='700'/>
 </p>
 <p align='center'> 
 </p>

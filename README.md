@@ -3,7 +3,7 @@
 ### [Arxiv Paper](----后期补---) | [BibTex](https://github.com/gxl-groups/PAINT#citation)
 
 <p align='center'>  
-  <img src='https://github.com/gxl-groups/PAINT/TSN/blob/pytorch/docs/PAINT.PNG' width='700'/>
+  <img src='https://github.com/gxl-groups/PAINT/TSN/docs/PAINT.PNG' width='700'/>
 </p>
 <p align='center'> 
 </p>
@@ -65,7 +65,7 @@ Run AFN `tensorboard --logdir release_model --port 6006` to view training progre
 ## Example Results 
 
 <p align='center'>  
-  <img src='https://github.com/gxl-groups/PAINT/TSN/blob/pytorch/docs/result.PNG' width='700'/>
+  <img src='https://github.com/gxl-groups/PAINT/TSN/docs/result.PNG' width='700'/>
 </p>
 <p align='center'> 
 </p>

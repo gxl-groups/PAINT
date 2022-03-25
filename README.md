@@ -27,7 +27,6 @@ for precisely expanding texture patches to the irregular clothing regions of the
 * pandas
 * tqdm
 * dominate
-* 
 ## Getting Started
 ### Data Preperation
 We provide our **dataset files** , **extracted keypoints files** and **extracted parsing files**  for convience.
